@@ -1,0 +1,170 @@
+[[nghttp3]]
+arch = "aarch64"
+git-tree-sha1 = "f014792fb86b6a4e9019da6e44464a4b52b19612"
+os = "macos"
+
+    [[nghttp3.download]]
+    sha256 = "6ee346d32a3191f7e3b36cedbf3a90b26a736c5303d0a871708aa73114597b20"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.aarch64-apple-darwin.tar.gz"
+[[nghttp3]]
+arch = "aarch64"
+git-tree-sha1 = "c01f256a411dd37de6d4897f3b8f66f380a9d0d2"
+libc = "glibc"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "1820d95c9ac9890d981bce65ed4f1f09b088d0e5400c51109c3ff332a09b1bc4"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.aarch64-linux-gnu.tar.gz"
+[[nghttp3]]
+arch = "aarch64"
+git-tree-sha1 = "cd86e68905ed9cc73fa607fea2f357624ea8c8b8"
+libc = "musl"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "5d6c785b1e39f653cb44ebb28da82cfe498a8b5edf6851fd7f00906c5669c7f8"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.aarch64-linux-musl.tar.gz"
+[[nghttp3]]
+arch = "aarch64"
+git-tree-sha1 = "05649bebcb439abfcb94b1f430c24b0c5f63167f"
+os = "freebsd"
+
+    [[nghttp3.download]]
+    sha256 = "9a1c30ff7b2bcd6c0f8329bc619c45cef8548ea3ff6b11541c4091a069f8bd30"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.aarch64-unknown-freebsd.tar.gz"
+[[nghttp3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "66e83b2e097f64b33f43eaa0ef32b5d24a80f20c"
+libc = "glibc"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "ae167263e8c20dceadc83c52f74ca0135616f9e9916840b06e2aef41956a5b28"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.armv6l-linux-gnueabihf.tar.gz"
+[[nghttp3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "dbedbd6e925010c30614b434ffadc3c6be0fa6c9"
+libc = "musl"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "a532d8da28cd3aeaa459e640e9a44454c890acaff31593324fc514cb3eba1300"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.armv6l-linux-musleabihf.tar.gz"
+[[nghttp3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f83e0182860c5d441f2f65ff69ff7b28b16221d8"
+libc = "glibc"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "9a0d6ff62d3cd23eb0de58cc06f780ece5adcd22a4700706dfa7d534b0d36d12"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.armv7l-linux-gnueabihf.tar.gz"
+[[nghttp3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ba62757b86651af93224a3e601f25ee8befb80bd"
+libc = "musl"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "710246ec65efe4c13a43d834d19cfbdeefa4d0f998d41bc1ef500a7a8f0ee655"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.armv7l-linux-musleabihf.tar.gz"
+[[nghttp3]]
+arch = "i686"
+git-tree-sha1 = "60dd75b134fa9e05966bcaa56e1670ec7a52c73d"
+libc = "glibc"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "21aa4ee2aa2b02bde4b80f8a35f94edc8ef6d4b1429f0c4cedf31e957a4b927f"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.i686-linux-gnu.tar.gz"
+[[nghttp3]]
+arch = "i686"
+git-tree-sha1 = "9a54d03791e46a0485bb61578b46a1c5a050ff86"
+libc = "musl"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "3e4c86ebb3506f39d257436adc98cb7f752ce7465bd423fa0ed800b7890ee06b"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.i686-linux-musl.tar.gz"
+[[nghttp3]]
+arch = "i686"
+git-tree-sha1 = "ec11cbec83614a87fdf4e64193fc34f7cbb2538a"
+os = "windows"
+
+    [[nghttp3.download]]
+    sha256 = "ab7d2759ac7dd24b01f8e099b5a701c347c8e8345793ff36901037685b9786d5"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.i686-w64-mingw32.tar.gz"
+[[nghttp3]]
+arch = "powerpc64le"
+git-tree-sha1 = "94843fc82c6a0b9092ade40e9e976ebd9e76f953"
+libc = "glibc"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "09f1a3b8043de6c7f0a68e0fb31bdc9396d9a109b31000924e7d0589633bbe85"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.powerpc64le-linux-gnu.tar.gz"
+[[nghttp3]]
+arch = "riscv64"
+git-tree-sha1 = "a6117501be97246b424d0c2fe49d07aa3f647dbc"
+libc = "glibc"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "0ed54b8e53f862da475eb342fcc8c1da195573f3ef654ee31b292583d7acfe50"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.riscv64-linux-gnu.tar.gz"
+[[nghttp3]]
+arch = "x86_64"
+git-tree-sha1 = "626777558668ffc0ac8848d67b07f9dc4de3b73e"
+os = "macos"
+
+    [[nghttp3.download]]
+    sha256 = "c39f5de268743cd2d8f78acf524e855291fcf43e0fba26fe65b52d582af45874"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.x86_64-apple-darwin.tar.gz"
+[[nghttp3]]
+arch = "x86_64"
+git-tree-sha1 = "2e7d3aa9386911779c8f8d294a195f5c7f21927b"
+libc = "glibc"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "2176a825040bae0f7298899cf6cb31731973d4f0fe00dd8dec31d2e4633821bf"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.x86_64-linux-gnu.tar.gz"
+[[nghttp3]]
+arch = "x86_64"
+git-tree-sha1 = "f2568b92632355cd9fec587597772ef3150ccaad"
+libc = "glibc"
+os = "linux"
+sanitize = "memory"
+
+    [[nghttp3.download]]
+    sha256 = "4779bca3a88a04b29fce7cca07b38bc6b47f8b98fc503a041f8851f9ff7bc968"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.x86_64-linux-gnu-sanitize+memory.tar.gz"
+[[nghttp3]]
+arch = "x86_64"
+git-tree-sha1 = "70bb0bd183ed166338a3c4875bc0dcaaeb6daf7a"
+libc = "musl"
+os = "linux"
+
+    [[nghttp3.download]]
+    sha256 = "99c16879d5980f22c36e01c2643a31f0d791e09f24dc1c6a5ca19930ade54d2c"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.x86_64-linux-musl.tar.gz"
+[[nghttp3]]
+arch = "x86_64"
+git-tree-sha1 = "209c0546ce7c245aba64112a33d7f62727718b90"
+os = "freebsd"
+
+    [[nghttp3.download]]
+    sha256 = "40595d4a757ca34a1174921aa2a899d5d05f5a7a5d90518c51b3183106bc529c"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.x86_64-unknown-freebsd.tar.gz"
+[[nghttp3]]
+arch = "x86_64"
+git-tree-sha1 = "cb3be4ecf11b753a0344bad0872b567d216ad147"
+os = "windows"
+
+    [[nghttp3.download]]
+    sha256 = "8ec132ba5b4c74ce0d6e0b24d7cd3132697e9e541fb051d1a387c36d1275130c"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.8.0+0/nghttp3.v1.8.0.x86_64-w64-mingw32.tar.gz"
