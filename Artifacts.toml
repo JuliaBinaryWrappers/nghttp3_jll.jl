@@ -92,11 +92,11 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.19.0+0/nghttp3.v1.19.0.i686-linux-musl.tar.gz"
 [[nghttp3]]
 arch = "i686"
-git-tree-sha1 = "09058070ae1d4e1fa638a1d73c55ce90ab1fbf26"
+git-tree-sha1 = "554895eb27ee9be53433389ffe1d2593acd37495"
 os = "windows"
 
     [[nghttp3.download]]
-    sha256 = "5a6a378a3e226daad494477b16b0c1582c6dc0db12057760d2f4a4165f9489c1"
+    sha256 = "d744835943eb9b498b8f4dc539bd86ff5f30c45c3cc4a7bc271362d1a80cfa80"
     url = "https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl/releases/download/nghttp3-v1.19.0+0/nghttp3.v1.19.0.i686-w64-mingw32.tar.gz"
 [[nghttp3]]
 arch = "powerpc64le"
